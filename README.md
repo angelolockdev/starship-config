@@ -324,7 +324,7 @@ Please check out these previous works that helped inspire the creation of starsh
 
 ## 📝 License
 
-Copyright © 2019-present, [Starship Contributors](https://github.com/starship/starship/graphs/contributors).<br>
+Copyright © 2022-present, [Starship Contributors](https://github.com/starship/starship/graphs/contributors).<br>
 This project is [ISC](https://github.com/starship/starship/blob/master/LICENSE) licensed.
 
 [alpine linux packages]: https://pkgs.alpinelinux.org/packages?name=starship
